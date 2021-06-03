@@ -1,4 +1,6 @@
-[{
+{
+data: [
+{
 	"id": "1",
 	"name": "Office Map"
 }, {
@@ -48,4 +50,4 @@
 }, {
 	"id": "5",
 	"name": "Vacations and Sick Leaves"
-}]
+}]}
